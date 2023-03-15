@@ -28,7 +28,7 @@ napoleon_use_rtype = True
 napoleon_use_param = True
 
 templates_path = ['_templates']
-exclude_patterns = []
+exclude_patterns = ['_build', '**.ipynb_checkpoints']
 
 intersphinx_mapping={
     'numpy': ('https://numpy.org/doc/stable/',None),
