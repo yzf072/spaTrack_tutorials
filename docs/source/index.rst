@@ -17,6 +17,5 @@ Welcome to spaTrack_tutorials's documentation!
    notebooks/Apply_spaTrack_on_spatial_data_v2
    notebooks/spaTracks_multiple_origins_processing
    notebooks/more_time_transfer_matrix
-   notebooks/spaTrack_adapt_to_scRNAseq_data
 
 
