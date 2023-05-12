@@ -9,8 +9,8 @@ Welcome to spaTrack_tutorials's documentation!
    :caption: Tutorials:
    :hidden:
 
-   notebooks/Apply_spaTrack_on_spatial_data_v2
-   notebooks/spaTracks_multiple_origins_processing
-   notebooks/spaTracks_processing_of_multitime_data
-   notebooks/more_time_transfer_matrix
+   notebooks/01.ST_data_of_axolotl_brain_regeneration_after_injury
+   notebooks/02.ST_data_of_Intrahepatic_cholangiocarcinoma_cancer
+   notebooks/03.ST_data_of_axolotl_brain_slides_with_multiple_times
+   notebooks/04.ST_data_of_mouse midbrain_with_multiple_times
    notebooks/spaTrack_adapt_to_scRNAseq_data
