@@ -54,7 +54,7 @@ We provide the following five tutorials as reference cases to illustrate the app
 [04. Apply spaTrack to infer cell transitions across multiple time points in spatial transcriptomic data from the mouse midbrain.](https://spatrack-tutorials.readthedocs.io/en/latest/notebooks/04.ST_data_of_mouse%20midbrain_with_multiple_times.html)
 
 [05. Apply spaTrack to infer cell  trajectory in  scRNA-seq data from 
- hematopoietic stem cells development with multiple directions.]
+ hematopoietic stem cells development with multiple directions.](https://spatrack-tutorials.readthedocs.io/en/latest/notebooks/05.scRNAseq_data_of_HSC.html)
 
 
 
