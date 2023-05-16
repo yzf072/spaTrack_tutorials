@@ -13,4 +13,4 @@ Welcome to spaTrack_tutorials's documentation!
    notebooks/02.ST_data_of_Intrahepatic_cholangiocarcinoma_cancer
    notebooks/03.ST_data_of_axolotl_brain_slides_with_multiple_times
    notebooks/04.ST_data_of_mouse midbrain_with_multiple_times
-   notebooks/spaTrack_adapt_to_scRNAseq_data
+   notebooks/05.scRNAseq_data_of_HSC
